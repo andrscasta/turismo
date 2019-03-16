@@ -1,0 +1,45 @@
+.barra-superior{
+  height: 9rem;
+}
+.logo{
+  width: 11rem;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  border-radius: 20px;
+}
+body{
+  background-image: url(https://c.pxhere.com/photos/bd/7d/bavaria_allg_u_lake_web_mountains_water_nature_germany-535480.jpg!d);
+background-position: center;
+background-repeat: no-repeat;
+right: 100%;
+height: 100%;
+background-size: cover;
+}
+.icon{
+  width: 4rem;
+  height: auto;
+}
+.trasparente{
+  background: rgb(255, 192, 51, 0.4)
+}
+.brazil{
+  margin: 15px;
+}
+.brasil-text{
+  font-size: 19px;
+  text-align: justify;
+  box-sizing: border-box;
+  padding: 10px;
+}
+.bratt{
+  width: 8rem;
+  height: 8rem;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+.bratt-text{
+  font-size: 12px;
+  text-align: justify;
+  box-sizing: border-box;
+  padding: 10px;
+}
